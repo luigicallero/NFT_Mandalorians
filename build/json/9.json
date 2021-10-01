@@ -1,0 +1,35 @@
+{
+  "dna": "76506d9335e87d4929528991895ad8c8d006415e",
+  "name": "#9",
+  "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
+  "image": "ipfs://TBD/9.png",
+  "edition": 9,
+  "date": 1633090909888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Helmet Frame",
+      "value": "High"
+    },
+    {
+      "trait_type": "Helmet Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Helmet Nose",
+      "value": "White"
+    },
+    {
+      "trait_type": "Helmet Accessory",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Helmet Shine",
+      "value": "Shapes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

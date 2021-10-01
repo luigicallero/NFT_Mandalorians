@@ -1,0 +1,30 @@
+{
+  "name": "mandalorians_helmets",
+  "version": "1.0.0",
+  "description": "Mandalorians Helmets represent a culture and a vote of life: This is the way",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*"
+    ],
+    "scripts": [
+      "src/main.js",
+      "src/config.js"
+    ],
+    "outputPath": "dist"
+  },
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IT Mandalorians",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.0.40",
+    "canvas": "^2.8.0",
+    "sha1": "^1.1.1",
+    "truffle-plugin-verify": "^0.5.15"
+  }
+}
