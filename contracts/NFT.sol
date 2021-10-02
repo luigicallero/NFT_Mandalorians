@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 
-// Based on HashLips tutorials. Updated by IT Mandalorians
+// Based on HashLips tutorials. Updated by IT Mandalorians 
 
 pragma solidity >=0.7.0 <0.9.0;
 
