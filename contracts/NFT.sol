@@ -1,11 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 
-// Created by HashLips
-/**
-    These contracts have been used to create tutorials, 
-    please review them on your own before using any of
-    the following code for production.
-*/
+// Based on HashLips tutorials. Updated by IT Mandalorians 
 
 pragma solidity >=0.7.0 <0.9.0;
 
@@ -52,7 +47,7 @@ contract NFT is ERC721Enumerable, Ownable {
     }
 
     for (uint256 i = 1; i <= _mintAmount; i++) {
-      _safeMint(_to, supply + i); // generating a token id for each token from supply - but where is URI assigned
+      _safeMint(_to, supply + i);
     }
   }
 
@@ -69,6 +64,7 @@ contract NFT is ERC721Enumerable, Ownable {
     return tokenIds;
   }
 
+  //this function is called automatically by ERC721 - hence in charge of assigning the tokenURI to every minted token
   function tokenURI(uint256 tokenId)
     public
     view
