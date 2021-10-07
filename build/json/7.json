@@ -1,34 +1,70 @@
 {
-  "dna": "6f7cb26fabeb6ee05b42eaff302c316d5585f777",
+  "dna": "85bf7c14f78fafa7781d0665ffd629bc3a56a101",
   "name": "#7",
   "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
   "image": "ipfs://TBD/7.png",
   "edition": 7,
-  "date": 1633090909666,
+  "date": 1633607949230,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Black"
+      "trait_type": "1-background",
+      "value": "background-4"
     },
     {
-      "trait_type": "Helmet Frame",
-      "value": "Low"
+      "trait_type": "2-left-arm",
+      "value": "left-arm-3"
     },
     {
-      "trait_type": "Helmet Eye",
-      "value": "Cyan"
+      "trait_type": "3-chest",
+      "value": "chest-1"
     },
     {
-      "trait_type": "Helmet Nose",
-      "value": "Red"
+      "trait_type": "4-right-arm",
+      "value": "right-arm-1"
     },
     {
-      "trait_type": "Helmet Accessory",
-      "value": "Large"
+      "trait_type": "5-neck",
+      "value": "neck-5"
     },
     {
-      "trait_type": "Helmet Shine",
-      "value": "Shapes"
+      "trait_type": "6-brest",
+      "value": "brest-red"
+    },
+    {
+      "trait_type": "7-helmet",
+      "value": "helmet-lightblue"
+    },
+    {
+      "trait_type": "8-glass",
+      "value": "glass-green"
+    },
+    {
+      "trait_type": "9-eyes",
+      "value": "eyes-2"
+    },
+    {
+      "trait_type": "10-det-ext",
+      "value": "detalle-ext-yellow"
+    },
+    {
+      "trait_type": "11-det-int",
+      "value": "detalle-int-blue"
+    },
+    {
+      "trait_type": "12-ears",
+      "value": "oidos-light-blue"
+    },
+    {
+      "trait_type": "13-shoulder-logo",
+      "value": "logo-hombro-2"
+    },
+    {
+      "trait_type": "14-helmet-logo",
+      "value": "logo-helmet-1"
+    },
+    {
+      "trait_type": "15-antena",
+      "value": "antena"
     }
   ],
   "compiler": "HashLips Art Engine"
