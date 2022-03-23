@@ -1,70 +1,58 @@
 {
-  "dna": "9f785a30736d1d1c2eb8f19c89ad03901ba5e9b5",
+  "dna": "34948b2f2ef7033d3a9380f51141714217474995",
   "name": "#8",
   "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
   "image": "ipfs://TBD/8.png",
   "edition": 8,
-  "date": 1633607949638,
+  "date": 1648036602856,
   "attributes": [
     {
-      "trait_type": "1-background",
-      "value": "background-4"
+      "trait_type": "00-background",
+      "value": "Background-05"
     },
     {
-      "trait_type": "2-left-arm",
-      "value": "left-arm-2"
+      "trait_type": "01-base_shadow",
+      "value": "mando"
     },
     {
-      "trait_type": "3-chest",
-      "value": "chest-2"
+      "trait_type": "02-cape",
+      "value": "cape-1"
     },
     {
-      "trait_type": "4-right-arm",
-      "value": "right-arm-1"
+      "trait_type": "03-base_suits",
+      "value": "suit-2"
     },
     {
-      "trait_type": "5-neck",
-      "value": "neck-1"
+      "trait_type": "04-rifle",
+      "value": "rifle"
     },
     {
-      "trait_type": "6-brest",
-      "value": "brest-blue"
+      "trait_type": "05-globes",
+      "value": "globes"
     },
     {
-      "trait_type": "7-helmet",
-      "value": "helmet-yellow"
+      "trait_type": "06-armour",
+      "value": "armour-2"
     },
     {
-      "trait_type": "8-glass",
-      "value": "glass-yellow"
+      "trait_type": "07-suits",
+      "value": "traje"
     },
     {
-      "trait_type": "9-eyes",
-      "value": "eyes-2"
+      "trait_type": "08-shine",
+      "value": "shine"
     },
     {
-      "trait_type": "10-det-ext",
-      "value": "detalle-ext-blue"
+      "trait_type": "09-shadow",
+      "value": "shadow"
     },
     {
-      "trait_type": "11-det-int",
-      "value": "detalle-int-light-blue"
+      "trait_type": "10-lens",
+      "value": "Lens-2"
     },
     {
-      "trait_type": "12-ears",
-      "value": "oidos-red"
-    },
-    {
-      "trait_type": "13-shoulder-logo",
-      "value": "logo-hombro-1"
-    },
-    {
-      "trait_type": "14-helmet-logo",
-      "value": "logo-helmet-1"
-    },
-    {
-      "trait_type": "15-antena",
-      "value": "antena"
+      "trait_type": "11-tatoo",
+      "value": "tatoo-2"
     }
   ],
   "compiler": "HashLips Art Engine"
