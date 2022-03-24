@@ -9,6 +9,13 @@ module.exports = {
       network_id: '4',
       skipDryRun: true,
     },
+    mumbai: {
+      provider: () => {
+        return new HDWalletProvider(process.env.MNEMONIC, process.env.MUMBAI_RPC_URL)
+      },
+      network_id: '80001',
+      skipDryRun: true,
+    },
     mainnet: {
       provider: () => {
         return new HDWalletProvider(process.env.MAINNET_MNEMONIC, process.env.MAINNET_RPC_URL)
