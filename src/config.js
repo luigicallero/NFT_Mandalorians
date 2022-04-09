@@ -5,20 +5,21 @@ const baseUri = "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5";
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 1000,
+    growEditionSizeTo: 10,
     layersOrder: [
       { name: "00-background" },
       { name: "01-base_shadow" },
-      { name: "02-cape" },
-      { name: "03-base_suits" },
-      { name: "04-rifle" },
-      { name: "05-globes" },
-      { name: "06-armour" },
-      { name: "07-suits" },
-      { name: "08-shine" },
-      { name: "09-shadow" },
-      { name: "10-lens" },
-      { name: "11-tatoo" },
+      { name: "02-under" },
+      { name: "03-cape" },
+      { name: "04-base_suits" },
+      { name: "05-rifle" },
+      { name: "06-globes" },
+      { name: "07-armour"},
+      { name: "08-suits" },
+      { name: "09-shine" },
+      { name: "10-shadow" },
+      { name: "11-lens" },
+      { name: "12-tatoo" },
     ],
   },
 ];

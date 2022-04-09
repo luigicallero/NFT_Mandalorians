@@ -221,5 +221,3 @@ Trait type: Top lid
 { trait: 'Low', chance: '20', occurrence: '40' }
 { trait: 'Middle', chance: '50', occurrence: '40' }
 ```
-
-Hope you create some awesome artworks with this code 👄
