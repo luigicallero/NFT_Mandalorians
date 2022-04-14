@@ -1,3 +1,4 @@
+require('dotenv').config();
 const HDWalletProvider = require('@truffle/hdwallet-provider')
 
 module.exports = {
@@ -9,6 +10,21 @@ module.exports = {
       network_id: '4',
       skipDryRun: true,
     },
+
+/*     rinkeby: {
+      provider: () =>
+        new HDWalletProvider({
+          mnemonic: {
+            phrase: MNEMONIC
+          },
+          providerOrUrl: RINKEBY_RPC_URL,
+          numberOfAddresses: 1,
+          shareNonce: true,
+        }),
+      network_id: '4',
+    }, */
+
+
     mumbai: {
       provider: () => {
         return new HDWalletProvider(process.env.MNEMONIC, process.env.MUMBAI_RPC_URL)

@@ -1,14 +1,14 @@
 {
-  "dna": "aa9d899d6df4c038b50c83945e8fc3bb1796e36f",
+  "dna": "cdb55123cc9ac6b1353556008a9398c73e1dce13",
   "name": "#6",
   "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-  "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/6.png",
+  "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/6.png",
   "edition": 6,
-  "date": 1649510600151,
+  "date": 1649924774961,
   "attributes": [
     {
       "trait_type": "00-background",
-      "value": "Background-03"
+      "value": "Background-01"
     },
     {
       "trait_type": "01-base_shadow",
@@ -16,15 +16,15 @@
     },
     {
       "trait_type": "02-under",
-      "value": "under-3"
+      "value": "under-4"
     },
     {
       "trait_type": "03-cape",
-      "value": "cape-3"
+      "value": "purple"
     },
     {
       "trait_type": "04-base_suits",
-      "value": "suit-1"
+      "value": "purpledark"
     },
     {
       "trait_type": "05-rifle",
@@ -36,11 +36,11 @@
     },
     {
       "trait_type": "07-armour",
-      "value": "armour-3"
+      "value": "blue"
     },
     {
       "trait_type": "08-suits",
-      "value": "traje"
+      "value": "suit"
     },
     {
       "trait_type": "09-shine",
@@ -52,11 +52,11 @@
     },
     {
       "trait_type": "11-lens",
-      "value": "lens-2"
+      "value": "lens-5"
     },
     {
       "trait_type": "12-tatoo",
-      "value": "tatoo-1"
+      "value": "boba_fett"
     }
   ],
   "compiler": "HashLips Art Engine"

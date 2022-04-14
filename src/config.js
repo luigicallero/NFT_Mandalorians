@@ -1,7 +1,7 @@
 const { MODE } = require("./blendMode.js");
 const description =
   "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way";
-const baseUri = "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5";
+const baseUri = "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY";
 
 const layerConfigurations = [
   {

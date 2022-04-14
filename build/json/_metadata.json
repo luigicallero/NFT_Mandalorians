@@ -1,74 +1,11 @@
 [
   {
-    "dna": "6415b6c96220a5a8bd179b93449bb430e64b6bc1",
+    "dna": "74c764b575e49ec1d69b4a87c01783e6065b69f6",
     "name": "#1",
     "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-    "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/1.png",
+    "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/1.png",
     "edition": 1,
-    "date": 1649510598190,
-    "attributes": [
-      {
-        "trait_type": "00-background",
-        "value": "Background-03"
-      },
-      {
-        "trait_type": "01-base_shadow",
-        "value": "mando"
-      },
-      {
-        "trait_type": "02-under",
-        "value": "under-3"
-      },
-      {
-        "trait_type": "03-cape",
-        "value": "cape-3"
-      },
-      {
-        "trait_type": "04-base_suits",
-        "value": "suit-3"
-      },
-      {
-        "trait_type": "05-rifle",
-        "value": "rifle"
-      },
-      {
-        "trait_type": "06-globes",
-        "value": "globes"
-      },
-      {
-        "trait_type": "07-armour",
-        "value": "armour-2"
-      },
-      {
-        "trait_type": "08-suits",
-        "value": "traje"
-      },
-      {
-        "trait_type": "09-shine",
-        "value": "shine"
-      },
-      {
-        "trait_type": "10-shadow",
-        "value": "shadow"
-      },
-      {
-        "trait_type": "11-lens",
-        "value": "lens-5"
-      },
-      {
-        "trait_type": "12-tatoo",
-        "value": "tatoo-2"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "dna": "29cce2f71bbe9f9ade99e493ef15ed93abdf27e4",
-    "name": "#2",
-    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-    "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/2.png",
-    "edition": 2,
-    "date": 1649510598529,
+    "date": 1649924773255,
     "attributes": [
       {
         "trait_type": "00-background",
@@ -80,78 +17,15 @@
       },
       {
         "trait_type": "02-under",
-        "value": "under-2"
-      },
-      {
-        "trait_type": "03-cape",
-        "value": "cape-1"
-      },
-      {
-        "trait_type": "04-base_suits",
-        "value": "suit-1"
-      },
-      {
-        "trait_type": "05-rifle",
-        "value": "rifle"
-      },
-      {
-        "trait_type": "06-globes",
-        "value": "globes"
-      },
-      {
-        "trait_type": "07-armour",
-        "value": "armour-1"
-      },
-      {
-        "trait_type": "08-suits",
-        "value": "traje"
-      },
-      {
-        "trait_type": "09-shine",
-        "value": "shine"
-      },
-      {
-        "trait_type": "10-shadow",
-        "value": "shadow"
-      },
-      {
-        "trait_type": "11-lens",
-        "value": "lens-5"
-      },
-      {
-        "trait_type": "12-tatoo",
-        "value": "tatoo-1"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "dna": "2e427c16f29658a2a1e1952e5409c4b21ebbfa89",
-    "name": "#3",
-    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-    "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/3.png",
-    "edition": 3,
-    "date": 1649510598926,
-    "attributes": [
-      {
-        "trait_type": "00-background",
-        "value": "Background-05"
-      },
-      {
-        "trait_type": "01-base_shadow",
-        "value": "mando"
-      },
-      {
-        "trait_type": "02-under",
         "value": "under-3"
       },
       {
         "trait_type": "03-cape",
-        "value": "cape-3"
+        "value": "green"
       },
       {
         "trait_type": "04-base_suits",
-        "value": "suit-1"
+        "value": "purpledark"
       },
       {
         "trait_type": "05-rifle",
@@ -163,137 +37,11 @@
       },
       {
         "trait_type": "07-armour",
-        "value": "armour-1"
+        "value": "green"
       },
       {
         "trait_type": "08-suits",
-        "value": "traje"
-      },
-      {
-        "trait_type": "09-shine",
-        "value": "shine"
-      },
-      {
-        "trait_type": "10-shadow",
-        "value": "shadow"
-      },
-      {
-        "trait_type": "11-lens",
-        "value": "lens-5"
-      },
-      {
-        "trait_type": "12-tatoo",
-        "value": "tatoo-1"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "dna": "ddeb5ef7f0df7d4f93ff0835becde9588adcc79e",
-    "name": "#4",
-    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-    "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/4.png",
-    "edition": 4,
-    "date": 1649510599353,
-    "attributes": [
-      {
-        "trait_type": "00-background",
-        "value": "Background-05"
-      },
-      {
-        "trait_type": "01-base_shadow",
-        "value": "mando"
-      },
-      {
-        "trait_type": "02-under",
-        "value": "under-2"
-      },
-      {
-        "trait_type": "03-cape",
-        "value": "cape-1"
-      },
-      {
-        "trait_type": "04-base_suits",
-        "value": "suit-4"
-      },
-      {
-        "trait_type": "05-rifle",
-        "value": "rifle"
-      },
-      {
-        "trait_type": "06-globes",
-        "value": "globes"
-      },
-      {
-        "trait_type": "07-armour",
-        "value": "armour-3"
-      },
-      {
-        "trait_type": "08-suits",
-        "value": "traje"
-      },
-      {
-        "trait_type": "09-shine",
-        "value": "shine"
-      },
-      {
-        "trait_type": "10-shadow",
-        "value": "shadow"
-      },
-      {
-        "trait_type": "11-lens",
-        "value": "lens-1"
-      },
-      {
-        "trait_type": "12-tatoo",
-        "value": "tatoo-1"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "dna": "741405e5d84cf0e541cf4e95376358e0a61d623b",
-    "name": "#5",
-    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-    "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/5.png",
-    "edition": 5,
-    "date": 1649510599740,
-    "attributes": [
-      {
-        "trait_type": "00-background",
-        "value": "Background-05"
-      },
-      {
-        "trait_type": "01-base_shadow",
-        "value": "mando"
-      },
-      {
-        "trait_type": "02-under",
-        "value": "under-3"
-      },
-      {
-        "trait_type": "03-cape",
-        "value": "cape-3"
-      },
-      {
-        "trait_type": "04-base_suits",
-        "value": "suit-1"
-      },
-      {
-        "trait_type": "05-rifle",
-        "value": "rifle"
-      },
-      {
-        "trait_type": "06-globes",
-        "value": "globes"
-      },
-      {
-        "trait_type": "07-armour",
-        "value": "armour-3"
-      },
-      {
-        "trait_type": "08-suits",
-        "value": "traje"
+        "value": "suit"
       },
       {
         "trait_type": "09-shine",
@@ -309,22 +57,22 @@
       },
       {
         "trait_type": "12-tatoo",
-        "value": "tatoo-1"
+        "value": "mudhorn"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "aa9d899d6df4c038b50c83945e8fc3bb1796e36f",
-    "name": "#6",
+    "dna": "18caa815e77ed6a7ec7668b24f3875133b19d9c1",
+    "name": "#2",
     "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-    "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/6.png",
-    "edition": 6,
-    "date": 1649510600151,
+    "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/2.png",
+    "edition": 2,
+    "date": 1649924773567,
     "attributes": [
       {
         "trait_type": "00-background",
-        "value": "Background-03"
+        "value": "Background-01"
       },
       {
         "trait_type": "01-base_shadow",
@@ -332,15 +80,15 @@
       },
       {
         "trait_type": "02-under",
-        "value": "under-3"
+        "value": "under-4"
       },
       {
         "trait_type": "03-cape",
-        "value": "cape-3"
+        "value": "green"
       },
       {
         "trait_type": "04-base_suits",
-        "value": "suit-1"
+        "value": "red"
       },
       {
         "trait_type": "05-rifle",
@@ -352,11 +100,74 @@
       },
       {
         "trait_type": "07-armour",
-        "value": "armour-3"
+        "value": "green"
       },
       {
         "trait_type": "08-suits",
-        "value": "traje"
+        "value": "suit"
+      },
+      {
+        "trait_type": "09-shine",
+        "value": "shine"
+      },
+      {
+        "trait_type": "10-shadow",
+        "value": "shadow"
+      },
+      {
+        "trait_type": "11-lens",
+        "value": "lens-1"
+      },
+      {
+        "trait_type": "12-tatoo",
+        "value": "boba_fett"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "5ff9b20722624d4f3ec9910de84e4ed15f990512",
+    "name": "#3",
+    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
+    "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/3.png",
+    "edition": 3,
+    "date": 1649924773896,
+    "attributes": [
+      {
+        "trait_type": "00-background",
+        "value": "Background-04"
+      },
+      {
+        "trait_type": "01-base_shadow",
+        "value": "mando"
+      },
+      {
+        "trait_type": "02-under",
+        "value": "under-3"
+      },
+      {
+        "trait_type": "03-cape",
+        "value": "purple"
+      },
+      {
+        "trait_type": "04-base_suits",
+        "value": "red"
+      },
+      {
+        "trait_type": "05-rifle",
+        "value": "rifle"
+      },
+      {
+        "trait_type": "06-globes",
+        "value": "globes"
+      },
+      {
+        "trait_type": "07-armour",
+        "value": "blue"
+      },
+      {
+        "trait_type": "08-suits",
+        "value": "suit"
       },
       {
         "trait_type": "09-shine",
@@ -372,22 +183,22 @@
       },
       {
         "trait_type": "12-tatoo",
-        "value": "tatoo-1"
+        "value": "boba_fett"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "445b0dded5e03118d8494be20229e317048f8585",
-    "name": "#7",
+    "dna": "b6eb8ebf7cdadb09731f183b6b4f0c7416b48069",
+    "name": "#4",
     "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-    "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/7.png",
-    "edition": 7,
-    "date": 1649510600483,
+    "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/4.png",
+    "edition": 4,
+    "date": 1649924774280,
     "attributes": [
       {
         "trait_type": "00-background",
-        "value": "Background-04"
+        "value": "Background-03"
       },
       {
         "trait_type": "01-base_shadow",
@@ -399,11 +210,11 @@
       },
       {
         "trait_type": "03-cape",
-        "value": "cape-3"
+        "value": "purple"
       },
       {
         "trait_type": "04-base_suits",
-        "value": "suit-1"
+        "value": "green"
       },
       {
         "trait_type": "05-rifle",
@@ -415,11 +226,11 @@
       },
       {
         "trait_type": "07-armour",
-        "value": "armour-4"
+        "value": "green"
       },
       {
         "trait_type": "08-suits",
-        "value": "traje"
+        "value": "suit"
       },
       {
         "trait_type": "09-shine",
@@ -435,22 +246,22 @@
       },
       {
         "trait_type": "12-tatoo",
-        "value": "tatoo-1"
+        "value": "mudhorn"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "dna": "da5e03c61e824ef7bcacbee23ce1a0873dcec5ab",
-    "name": "#8",
+    "dna": "3fc0c78175b5ca16b434c1490b916ed156b3d093",
+    "name": "#5",
     "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-    "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/8.png",
-    "edition": 8,
-    "date": 1649510600942,
+    "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/5.png",
+    "edition": 5,
+    "date": 1649924774613,
     "attributes": [
       {
         "trait_type": "00-background",
-        "value": "Background-02"
+        "value": "Background-01"
       },
       {
         "trait_type": "01-base_shadow",
@@ -458,15 +269,15 @@
       },
       {
         "trait_type": "02-under",
-        "value": "under-3"
+        "value": "under-4"
       },
       {
         "trait_type": "03-cape",
-        "value": "cape-1"
+        "value": "purple"
       },
       {
         "trait_type": "04-base_suits",
-        "value": "suit-1"
+        "value": "purple"
       },
       {
         "trait_type": "05-rifle",
@@ -478,137 +289,11 @@
       },
       {
         "trait_type": "07-armour",
-        "value": "armour-4"
+        "value": "green"
       },
       {
         "trait_type": "08-suits",
-        "value": "traje"
-      },
-      {
-        "trait_type": "09-shine",
-        "value": "shine"
-      },
-      {
-        "trait_type": "10-shadow",
-        "value": "shadow"
-      },
-      {
-        "trait_type": "11-lens",
-        "value": "lens-1"
-      },
-      {
-        "trait_type": "12-tatoo",
-        "value": "tatoo-2"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "dna": "ab3a2132a3cb092e39b1347244bd6ae3b6c06f4f",
-    "name": "#9",
-    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-    "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/9.png",
-    "edition": 9,
-    "date": 1649510601313,
-    "attributes": [
-      {
-        "trait_type": "00-background",
-        "value": "Background-04"
-      },
-      {
-        "trait_type": "01-base_shadow",
-        "value": "mando"
-      },
-      {
-        "trait_type": "02-under",
-        "value": "under-3"
-      },
-      {
-        "trait_type": "03-cape",
-        "value": "cape-2"
-      },
-      {
-        "trait_type": "04-base_suits",
-        "value": "suit-1"
-      },
-      {
-        "trait_type": "05-rifle",
-        "value": "rifle"
-      },
-      {
-        "trait_type": "06-globes",
-        "value": "globes"
-      },
-      {
-        "trait_type": "07-armour",
-        "value": "armour-1"
-      },
-      {
-        "trait_type": "08-suits",
-        "value": "traje"
-      },
-      {
-        "trait_type": "09-shine",
-        "value": "shine"
-      },
-      {
-        "trait_type": "10-shadow",
-        "value": "shadow"
-      },
-      {
-        "trait_type": "11-lens",
-        "value": "lens-3"
-      },
-      {
-        "trait_type": "12-tatoo",
-        "value": "tatoo-1"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "dna": "04bd47acbfdda840e4df271568ba594ff4219bc8",
-    "name": "#10",
-    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-    "image": "ipfs://QmNLfFPavqvnEB9iyhHo4N9qk2d2ySuKwpg5eXWxeq9fu5/10.png",
-    "edition": 10,
-    "date": 1649510601677,
-    "attributes": [
-      {
-        "trait_type": "00-background",
-        "value": "Background-04"
-      },
-      {
-        "trait_type": "01-base_shadow",
-        "value": "mando"
-      },
-      {
-        "trait_type": "02-under",
-        "value": "under-3"
-      },
-      {
-        "trait_type": "03-cape",
-        "value": "cape-2"
-      },
-      {
-        "trait_type": "04-base_suits",
-        "value": "suit-1"
-      },
-      {
-        "trait_type": "05-rifle",
-        "value": "rifle"
-      },
-      {
-        "trait_type": "06-globes",
-        "value": "globes"
-      },
-      {
-        "trait_type": "07-armour",
-        "value": "armour-4"
-      },
-      {
-        "trait_type": "08-suits",
-        "value": "traje"
+        "value": "suit"
       },
       {
         "trait_type": "09-shine",
@@ -624,7 +309,322 @@
       },
       {
         "trait_type": "12-tatoo",
-        "value": "tatoo-1"
+        "value": "mudhorn"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "cdb55123cc9ac6b1353556008a9398c73e1dce13",
+    "name": "#6",
+    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
+    "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/6.png",
+    "edition": 6,
+    "date": 1649924774961,
+    "attributes": [
+      {
+        "trait_type": "00-background",
+        "value": "Background-01"
+      },
+      {
+        "trait_type": "01-base_shadow",
+        "value": "mando"
+      },
+      {
+        "trait_type": "02-under",
+        "value": "under-4"
+      },
+      {
+        "trait_type": "03-cape",
+        "value": "purple"
+      },
+      {
+        "trait_type": "04-base_suits",
+        "value": "purpledark"
+      },
+      {
+        "trait_type": "05-rifle",
+        "value": "rifle"
+      },
+      {
+        "trait_type": "06-globes",
+        "value": "globes"
+      },
+      {
+        "trait_type": "07-armour",
+        "value": "blue"
+      },
+      {
+        "trait_type": "08-suits",
+        "value": "suit"
+      },
+      {
+        "trait_type": "09-shine",
+        "value": "shine"
+      },
+      {
+        "trait_type": "10-shadow",
+        "value": "shadow"
+      },
+      {
+        "trait_type": "11-lens",
+        "value": "lens-5"
+      },
+      {
+        "trait_type": "12-tatoo",
+        "value": "boba_fett"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "2c2f1346fe9c6c3ba629fe2c6e276436590287fc",
+    "name": "#7",
+    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
+    "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/7.png",
+    "edition": 7,
+    "date": 1649924775269,
+    "attributes": [
+      {
+        "trait_type": "00-background",
+        "value": "Background-02"
+      },
+      {
+        "trait_type": "01-base_shadow",
+        "value": "mando"
+      },
+      {
+        "trait_type": "02-under",
+        "value": "under-4"
+      },
+      {
+        "trait_type": "03-cape",
+        "value": "green"
+      },
+      {
+        "trait_type": "04-base_suits",
+        "value": "purple"
+      },
+      {
+        "trait_type": "05-rifle",
+        "value": "rifle"
+      },
+      {
+        "trait_type": "06-globes",
+        "value": "globes"
+      },
+      {
+        "trait_type": "07-armour",
+        "value": "blue"
+      },
+      {
+        "trait_type": "08-suits",
+        "value": "suit"
+      },
+      {
+        "trait_type": "09-shine",
+        "value": "shine"
+      },
+      {
+        "trait_type": "10-shadow",
+        "value": "shadow"
+      },
+      {
+        "trait_type": "11-lens",
+        "value": "lens-3"
+      },
+      {
+        "trait_type": "12-tatoo",
+        "value": "mudhorn"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3e6f9c5413086c9e2587410a2399c2e4a3e6b6e8",
+    "name": "#8",
+    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
+    "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/8.png",
+    "edition": 8,
+    "date": 1649924775583,
+    "attributes": [
+      {
+        "trait_type": "00-background",
+        "value": "Background-02"
+      },
+      {
+        "trait_type": "01-base_shadow",
+        "value": "mando"
+      },
+      {
+        "trait_type": "02-under",
+        "value": "under-1"
+      },
+      {
+        "trait_type": "03-cape",
+        "value": "green"
+      },
+      {
+        "trait_type": "04-base_suits",
+        "value": "purple"
+      },
+      {
+        "trait_type": "05-rifle",
+        "value": "rifle"
+      },
+      {
+        "trait_type": "06-globes",
+        "value": "globes"
+      },
+      {
+        "trait_type": "07-armour",
+        "value": "red"
+      },
+      {
+        "trait_type": "08-suits",
+        "value": "suit"
+      },
+      {
+        "trait_type": "09-shine",
+        "value": "shine"
+      },
+      {
+        "trait_type": "10-shadow",
+        "value": "shadow"
+      },
+      {
+        "trait_type": "11-lens",
+        "value": "lens-3"
+      },
+      {
+        "trait_type": "12-tatoo",
+        "value": "mudhorn"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "8d073b93caf7f2248015c152a3450c0dbe05f959",
+    "name": "#9",
+    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
+    "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/9.png",
+    "edition": 9,
+    "date": 1649924775926,
+    "attributes": [
+      {
+        "trait_type": "00-background",
+        "value": "Background-05"
+      },
+      {
+        "trait_type": "01-base_shadow",
+        "value": "mando"
+      },
+      {
+        "trait_type": "02-under",
+        "value": "under-2"
+      },
+      {
+        "trait_type": "03-cape",
+        "value": "purple"
+      },
+      {
+        "trait_type": "04-base_suits",
+        "value": "red"
+      },
+      {
+        "trait_type": "05-rifle",
+        "value": "rifle"
+      },
+      {
+        "trait_type": "06-globes",
+        "value": "globes"
+      },
+      {
+        "trait_type": "07-armour",
+        "value": "red"
+      },
+      {
+        "trait_type": "08-suits",
+        "value": "suit"
+      },
+      {
+        "trait_type": "09-shine",
+        "value": "shine"
+      },
+      {
+        "trait_type": "10-shadow",
+        "value": "shadow"
+      },
+      {
+        "trait_type": "11-lens",
+        "value": "lens-1"
+      },
+      {
+        "trait_type": "12-tatoo",
+        "value": "boba_fett"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "22ee08297581b023939e8bef42e8f40d3010631b",
+    "name": "#10",
+    "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
+    "image": "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY/10.png",
+    "edition": 10,
+    "date": 1649924776253,
+    "attributes": [
+      {
+        "trait_type": "00-background",
+        "value": "Background-02"
+      },
+      {
+        "trait_type": "01-base_shadow",
+        "value": "mando"
+      },
+      {
+        "trait_type": "02-under",
+        "value": "under-2"
+      },
+      {
+        "trait_type": "03-cape",
+        "value": "purple"
+      },
+      {
+        "trait_type": "04-base_suits",
+        "value": "purple"
+      },
+      {
+        "trait_type": "05-rifle",
+        "value": "rifle"
+      },
+      {
+        "trait_type": "06-globes",
+        "value": "globes"
+      },
+      {
+        "trait_type": "07-armour",
+        "value": "red"
+      },
+      {
+        "trait_type": "08-suits",
+        "value": "suit"
+      },
+      {
+        "trait_type": "09-shine",
+        "value": "shine"
+      },
+      {
+        "trait_type": "10-shadow",
+        "value": "shadow"
+      },
+      {
+        "trait_type": "11-lens",
+        "value": "lens-1"
+      },
+      {
+        "trait_type": "12-tatoo",
+        "value": "boba_fett"
       }
     ],
     "compiler": "HashLips Art Engine"
