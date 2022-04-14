@@ -10,24 +10,10 @@ module.exports = {
       network_id: '4',
       skipDryRun: true,
     },
-
-/*     rinkeby: {
-      provider: () =>
-        new HDWalletProvider({
-          mnemonic: {
-            phrase: MNEMONIC
-          },
-          providerOrUrl: RINKEBY_RPC_URL,
-          numberOfAddresses: 1,
-          shareNonce: true,
-        }),
-      network_id: '4',
-    }, */
-
-
     mumbai: {
       provider: () => {
-        return new HDWalletProvider(process.env.MNEMONIC, process.env.MUMBAI_RPC_URL)
+        /* return new HDWalletProvider(process.env.MNEMONIC, process.env.MUMBAI_INFURA_RPC_URL) */
+        return new HDWalletProvider(process.env.MNEMONIC, "https://rpc-mumbai.maticvigil.com")
       },
       network_id: '80001',
       skipDryRun: true,

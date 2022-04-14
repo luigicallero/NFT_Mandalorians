@@ -221,3 +221,64 @@ Trait type: Top lid
 { trait: 'Low', chance: '20', occurrence: '40' }
 { trait: 'Middle', chance: '50', occurrence: '40' }
 ```
+
+
+### IPFS upload of images via Pinata
+
+Log into Pinata (https://app.pinata.cloud/signin)
+
+Upload folder "build/images" and name it "100_images" or something similar (up to 1GB is free)
+
+Pin folder (usually is done by default) and copy CID for the folder
+
+### Updating baseUri for IPFS
+
+Paste CID in this line of the "src/config.js" file:
+```sh
+const baseUri = "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY";
+```
+
+To update the baseUri simply run:
+
+```sh
+node utils/updateBaseUri.js
+```
+
+### IPFS upload of metadata via Pinata
+
+Log into Pinata (https://app.pinata.cloud/signin)
+
+Upload folder "build/json" and name it "100_metadata" or something similar (up to 1GB is free)
+
+Pin folder (usually is done by default) and copy CID for the folder
+
+This CID is the one that goes to the blockchain.
+
+### Deploy NFT collection in Testnet (mumbai)
+
+Copy metadata CID in this line of "migrations/2_NFT_migration.js" file:
+```sh
+const TokenBaseURI = 'ipfs://QmcZ3rmu2WTwdSkXQbShU3AcCsezJtSosP7SHTiCq9RryX/';
+```
+
+Deploy NFT contract to mumbai tesnet and copy the resulted contract address:
+```sh
+truffle migrate --reset --network mumbai -f 2
+```
+Where "--reset" forces to compile again and "-f 2" points to the migration file we just updated
+
+If you face any error like:
+```sh 
+Error: PollingBlockTracker - encountered an error while attempting to update latest block 
+```
+try with a different RPC on "truffle-config.js" file.
+
+### Check NFT collection in Opensea Testnet
+
+Log into Opensea Testnet (https://testnets.opensea.io/) and connect with your metamask using the account used to deploy the NFT smart contract
+
+On the Search bar paste the contract address generated on previous step and select your collection.
+
+Opensea will automatically show your NFTs with all the images and metadata stored in IPFS.
+
+
