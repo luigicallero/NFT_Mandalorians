@@ -1,14 +1,14 @@
 {
-  "dna": "9b743ad4b8ec1f47ec4be4447aadce8d5fdbee1d",
+  "dna": "c6e6305175d5544e76bac44c7bcea5372333ac1e",
   "name": "#5",
   "description": "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way",
-  "image": "ipfs://TBD/5.png",
+  "image": "ipfs://QmeCtrSrbdLXUvSiwBRVxrHud3h3oqwA8ow4UriePqnkZU/5.png",
   "edition": 5,
-  "date": 1650130805502,
+  "date": 1650132018979,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Background-03"
+      "value": "Background-02"
     },
     {
       "trait_type": "base_shadow",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "under",
-      "value": "under-1"
+      "value": "under-4"
     },
     {
       "trait_type": "cape",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "base_suits",
-      "value": "green"
+      "value": "purpledark"
     },
     {
       "trait_type": "rifle",
@@ -52,7 +52,7 @@
     },
     {
       "trait_type": "lens",
-      "value": "lens-2"
+      "value": "lens-5"
     },
     {
       "trait_type": "tatoo",

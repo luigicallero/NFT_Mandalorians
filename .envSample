@@ -1,0 +1,4 @@
+export MNEMONIC='xxx xxx xxx xxx xxx'
+export RINKEBY_RPC_URL='https://rinkeby.infura.io/v3/YOURID'
+export MUMBAI_INFURA_RPC_URL='https://polygon-mumbai.infura.io/v3/YOURID'
+export POLYGON_PUBLIC_RPC='https://matic-mainnet.chainstacklabs.com'

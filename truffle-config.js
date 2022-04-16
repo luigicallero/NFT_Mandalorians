@@ -18,6 +18,13 @@ module.exports = {
       network_id: '80001',
       skipDryRun: true,
     },
+    polygon: {
+      provider: () => {
+        return new HDWalletProvider(process.env.MNEMONIC, process.env.POLYGON_PUBLIC_RPC )
+      },
+      network_id: '137',
+      skipDryRun: true,
+    },
     mainnet: {
       provider: () => {
         return new HDWalletProvider(process.env.MAINNET_MNEMONIC, process.env.MAINNET_RPC_URL)

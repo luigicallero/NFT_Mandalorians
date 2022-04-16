@@ -1,10 +1,10 @@
 const { MODE } = require("./blendMode.js");
 const description = "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way";
-const baseUri = "ipfs://TBD";
+const baseUri = "ipfs://QmeCtrSrbdLXUvSiwBRVxrHud3h3oqwA8ow4UriePqnkZU";
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 100,
+    growEditionSizeTo: 1000,
     layersOrder: [
       { name: "background" },
       { name: "base_shadow" },
@@ -42,7 +42,7 @@ const preview = {
 
 const rarityDelimiter = "#";
 
-const uniqueDnaTorrance = 10000;
+const uniqueDnaTorrance = 1000;
 
 module.exports = {
   format,

@@ -1,8 +1,8 @@
-# Art Engine 🔥
+# Art Engine
 
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js and yarn installed.
 
-## Installation 🛠️
+## Installation
 
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
@@ -174,33 +174,7 @@ The program will output all the images in the `build/images` directory along wit
 
 That's it, you're done.
 
-## Utils
-
-### Updating baseUri for IPFS
-
-You might possibly want to update the baseUri after you have ran your collection. To update the baseUri simply run:
-
-```sh
-node utils/updateBaseUri.js
-```
-
-### Generate a preview image
-
-Create a preview image collage of your collection, run:
-
-```sh
-node utils/createPreviewCollage.js
-```
-
-### Re-generate the \_metadata.json file
-
-This util will only working if you have all the individual json files and want to re-generate the \_metadata.json file if you lost it, run:
-
-```sh
-node utils/regenerateMetadata.js
-```
-
-### Printing rarity data (Experimental feature)
+### Printing rarity data
 
 To see the percentages of each attribute across your collection, run:
 
@@ -222,6 +196,17 @@ Trait type: Top lid
 { trait: 'Middle', chance: '50', occurrence: '40' }
 ```
 
+
+### Generate a preview image
+
+Create a preview image collage of your collection, run:
+
+```sh
+node utils/createPreviewCollage.js
+```
+
+#
+## NFT Section
 
 ### IPFS upload of images via Pinata
 
@@ -261,6 +246,11 @@ Copy metadata CID in this line of "migrations/2_NFT_migration.js" file:
 const TokenBaseURI = 'ipfs://QmcZ3rmu2WTwdSkXQbShU3AcCsezJtSosP7SHTiCq9RryX/';
 ```
 
+Update the amount of NFTs you want to mint from your collection during deployment :
+```sh
+const InitialMint = 50;
+```
+
 Deploy NFT contract to mumbai tesnet and copy the resulted contract address:
 ```sh
 truffle migrate --reset --network mumbai -f 2
@@ -273,6 +263,9 @@ Error: PollingBlockTracker - encountered an error while attempting to update lat
 ```
 try with a different RPC on "truffle-config.js" file.
 
+
+Sample NFT contract deployed in Mumbai: 0x004029f3f7B677AbC32913372f0dc307B7E8f7B4
+
 ### Check NFT collection in Opensea Testnet
 
 Log into Opensea Testnet (https://testnets.opensea.io/) and connect with your metamask using the account used to deploy the NFT smart contract
@@ -282,3 +275,32 @@ On the Search bar paste the contract address generated on previous step and sele
 Opensea will automatically show your NFTs with all the images and metadata stored in IPFS.
 
 
+### Deploy NFT collection in Production (Polygon)
+
+Update the amount of NFTs you want to mint from your collection during deployment :
+```sh
+const InitialMint = 10;
+```
+
+Deploy NFT contract to mumbai tesnet and copy the resulted contract address:
+```sh
+truffle migrate --reset --network polygon -f 2
+```
+Where "--reset" forces to compile again and "-f 2" points to the migration file we just updated
+
+If you face any error like:
+```sh 
+Error: PollingBlockTracker - encountered an error while attempting to update latest block 
+```
+try with a different RPC on "truffle-config.js" file.
+
+
+Sample NFT contract deployed in Mumbai: 0x004029f3f7B677AbC32913372f0dc307B7E8f7B4
+
+### Check NFT collection in Opensea Testnet
+
+Log into Opensea Testnet (https://testnets.opensea.io/) and connect with your metamask using the account used to deploy the NFT smart contract
+
+On the Search bar paste the contract address generated on previous step and select your collection.
+
+Opensea will automatically show your NFTs with all the images and metadata stored in IPFS.
