@@ -1,24 +1,24 @@
 const { MODE } = require("./blendMode.js");
 const description = "Every Helmet tells a different story and represents the story of a Mandalorian. This is the way";
-const baseUri = "ipfs://QmPgzZPxsHn4igYXbZFG6K3NMtW4dqAgdUmkbRdmPGdESY";
+const baseUri = "ipfs://TBD";
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10,
+    growEditionSizeTo: 100,
     layersOrder: [
-      { name: "00-background" },
-      { name: "01-base_shadow" },
-      { name: "02-under" },
-      { name: "03-cape" },
-      { name: "04-base_suits" },
-      { name: "05-rifle" },
-      { name: "06-globes" },
-      { name: "07-armour"},
-      { name: "08-suits" },
-      { name: "09-shine" },
-      { name: "10-shadow" },
-      { name: "11-lens" },
-      { name: "12-tatoo" },
+      { name: "background" },
+      { name: "base_shadow" },
+      { name: "under" },
+      { name: "cape" },
+      { name: "base_suits" },
+      { name: "rifle" },
+      { name: "globes" },
+      { name: "armour"},
+      { name: "suits" },
+      { name: "shine" },
+      { name: "shadow" },
+      { name: "lens" },
+      { name: "tatoo" },
     ],
   },
 ];

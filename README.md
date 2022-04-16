@@ -22,7 +22,7 @@ Alternatively you can run this command if you have node installed.
 npm install
 ```
 
-## Usage ℹ️
+## Configuration
 
 Create your different layers as folders in the 'layers' directory, and add all the layer assets in these directories. You can name the assets anything as long as it has a rarity weight attached in the file name like so: `example element#70.png`. You can optionally change the delimiter `#` to anything you would like to use in the variable `rarityDelimiter` in the `src/config.js` file.
 
@@ -136,7 +136,7 @@ const MODE = {
   luminosity: "luminosity",
 };
 ```
-
+## Generate the images
 When you are all ready, run the following command and your outputted art will be in the `build/images` directory and the json in the `build/json` directory:
 
 ```sh
